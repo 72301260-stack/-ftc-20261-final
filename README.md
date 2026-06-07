@@ -52,9 +52,3 @@ dotnet run
 ## Vídeo de Defesa
 
 [Link para o vídeo no YouTube] <!-- Substituir pelo link real antes da entrega -->
-
-## Referências
-
-1. SIPSER, Michael. *Introduction to the Theory of Computation*. 3. ed. Boston: Cengage, 2013.
-2. HOPCROFT, John E.; MOTWANI, Rajeev; ULLMAN, Jeffrey D. *Introdução à Teoria de Autômatos, Linguagens e Computação*. 2. ed. Rio de Janeiro: Campus/Elsevier, 2003.
-3. MENEZES, Paulo Blauth. *Linguagens Formais e Autômatos*. 6. ed. Porto Alegre: Bookman, 2010.

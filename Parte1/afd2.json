@@ -1,0 +1,12 @@
+{
+  "estados": ["q0", "q1"],
+  "alfabeto": ["0", "1"],
+  "estadoInicial": "q0",
+  "estadosAceitacao": ["q0"],
+  "transicoes": [
+    { "origem": "q0", "simbolo": "0", "destino": "q1" },
+    { "origem": "q0", "simbolo": "1", "destino": "q0" },
+    { "origem": "q1", "simbolo": "0", "destino": "q0" },
+    { "origem": "q1", "simbolo": "1", "destino": "q1" }
+  ]
+}

@@ -1,0 +1,60 @@
+# FTC 2026/1 - Trabalho Final
+
+Implementação de Máquinas Abstratas: AFD, Autômato de Pilha e Máquina de Turing.
+
+## Integrantes
+
+| Nome Completo | Matrícula |
+|---------------|-----------|
+| [Nome 1]      | [Matrícula 1] |
+| [Nome 2]      | [Matrícula 2] |
+| [Nome 3]      | [Matrícula 3] |
+
+## Descrição das Partes
+
+### Parte 1 — Autômato Finito Determinístico (AFD)
+
+Simulador genérico de AFD capaz de reconhecer linguagens regulares. Implementa a linguagem L1 = { w ∈ {a,b}* | w termina com "ab" } e permite carregar qualquer AFD a partir de um arquivo de configuração JSON.
+
+### Parte 2 — Autômato de Pilha (AP)
+
+Simulador de Autômato de Pilha com reconhecimento por pilha vazia. Implementa a linguagem L2 = { aⁿbⁿ | n ≥ 1 } e o desafio L3 = { w ∈ {a,b}* | w = wᴿ, |w| ≥ 1 } (palíndromos).
+
+### Parte 3 — Máquina de Turing (MT)
+
+Simulador de Máquina de Turing com fita dinâmica e exibição passo a passo. Implementa a linguagem L4 = { aⁿbⁿcⁿ | n ≥ 1 } e a função computável f(n) = n + 1 em representação unária.
+
+## Como Compilar e Executar
+
+Requisitos: .NET 8 SDK instalado.
+
+### Parte 1 — AFD
+
+```bash
+cd Parte1
+dotnet run
+```
+
+### Parte 2 — Autômato de Pilha
+
+```bash
+cd Parte2
+dotnet run
+```
+
+### Parte 3 — Máquina de Turing
+
+```bash
+cd Parte3
+dotnet run
+```
+
+## Vídeo de Defesa
+
+[Link para o vídeo no YouTube] <!-- Substituir pelo link real antes da entrega -->
+
+## Referências
+
+1. SIPSER, Michael. *Introduction to the Theory of Computation*. 3. ed. Boston: Cengage, 2013.
+2. HOPCROFT, John E.; MOTWANI, Rajeev; ULLMAN, Jeffrey D. *Introdução à Teoria de Autômatos, Linguagens e Computação*. 2. ed. Rio de Janeiro: Campus/Elsevier, 2003.
+3. MENEZES, Paulo Blauth. *Linguagens Formais e Autômatos*. 6. ed. Porto Alegre: Bookman, 2010.

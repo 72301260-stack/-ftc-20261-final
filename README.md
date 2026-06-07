@@ -32,6 +32,7 @@ Requisitos: .NET 8 SDK instalado.
 
 ```bash
 cd Parte1
+dotnet build
 dotnet run
 ```
 
@@ -39,6 +40,7 @@ dotnet run
 
 ```bash
 cd Parte2
+dotnet build
 dotnet run
 ```
 
@@ -46,6 +48,7 @@ dotnet run
 
 ```bash
 cd Parte3
+dotnet build
 dotnet run
 ```
 

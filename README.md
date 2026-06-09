@@ -5,6 +5,7 @@ Implementação de Máquinas Abstratas: AFD, Autômato de Pilha e Máquina de Tu
 ## Integrantes
 
 Amanda Pimentel - 72301260
+
 Emilly Luiza V. Cordeiro - 72301279
 
 ## Descrição das Partes

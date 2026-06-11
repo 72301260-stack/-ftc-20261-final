@@ -52,4 +52,4 @@ dotnet run
 
 ## Vídeo de Defesa
 
-[Link para o vídeo no YouTube] <!-- Substituir pelo link real antes da entrega -->
+https://youtu.be/d35zEsZhhQc <!-- Substituir pelo link real antes da entrega -->
